@@ -36,9 +36,9 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
+        src="../images/profile-pic.jpg"
+        width={55}
+        height={55}
         quality={95}
         alt="Profile picture"
       />
@@ -47,7 +47,7 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+            check out my twiiter to know more about me.
           </a>
         </p>
       )}
