@@ -31,7 +31,7 @@ const Bio = () => {
   const social = data.site.siteMetadata?.social
 
   return (
-    <div className="bio">
+    <div className="bio" style={{backgroundColor: '#705E78'}}>
       <StaticImage
         className="bio-avatar"
         layout="fixed"
@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Written by <strong style={{color: '#FEA443'}}>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             check out my twiiter to know more about me.
