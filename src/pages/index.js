@@ -44,17 +44,19 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small className='blogDate'>{post.frontmatter.date}</small>
-                  <small className='blogDate'>{post.frontmatter.title2}</small>
+                  <small className='blogDate'>{post.frontmatter.date}</small><br></br>
+                  <small className='blogDate'>{post.frontmatter.category}</small>
                 </header>
-                <section>
+                <section className='shortBlog'>
+                  <Link to={post.fields.slug} itemProp="url"><img className='thumbnail' src={post.frontmatter.thumbnail} alt="thumbnail_img"></img></Link>
                   <p className='blogDesc'
                     dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.category || post.excerpt,
+                      __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
                   />
                 </section>
+                <Link to={post.fields.slug} itemProp="url">[ READ MORE!!! ]</Link><hr></hr>
               </article>
             </li>
           )
@@ -73,7 +75,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
       nodes {
         excerpt
         fields {
@@ -82,6 +84,8 @@ export const pageQuery = graphql`
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
+          category
+          thumbnail
           description
         }
       }
