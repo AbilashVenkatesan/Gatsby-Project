@@ -1,6 +1,6 @@
 ---
 title: "Canada."
-date: "2020-02-06T23:46:37.121Z."
+date: "2020-02-06T23:46:37.121Z"
 category: "Country."
 thumbnail: "https://images.pexels.com/photos/2916826/pexels-photo-2916826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
 ---
