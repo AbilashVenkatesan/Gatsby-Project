@@ -49,15 +49,18 @@ const BlogIndex = ({ data, location }) => {
                 </header>
                 <section className='shortBlog'>
                   <Link to={post.fields.slug} itemProp="url"><img className='thumbnail' src={post.frontmatter.thumbnail} alt="thumbnail_img"></img></Link>
+                  <div>
                   <p className='blogDesc'
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
                   />
+                  <Link to={post.fields.slug} itemProp="url" className='blogDesc'>[ READ MORE!!! ]</Link>
+                  </div>
                 </section>
-                <Link to={post.fields.slug} itemProp="url">[ READ MORE!!! ]</Link><hr></hr>
               </article>
+              <hr></hr>
             </li>
           )
         })}
