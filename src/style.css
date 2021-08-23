@@ -314,6 +314,17 @@ a:focus {
   background-color: var(--color-accent);
 }
 
+.tags{
+  display: flex;
+  color: white;
+}
+
+.tags>p{
+  background-color: var(--color-accent);
+  border-radius: 1em;
+  padding: .25em;
+}
+
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
