@@ -3,7 +3,7 @@ title: "Sushi."
 date: "2021-01-06T22:12:03.284Z"
 category: "Food."
 thumbnail: "https://135525-391882-2-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/01/sushi-1024x683.jpg"
-description: "Sushi is a Japanese cuisine."
+description: "<strong>Sushi</strong> is a Japanese cuisine. Sushi (すし, 寿司, 鮨, pronounced [sɯɕiꜜ] or [sɯꜜɕi]) is a traditional Japanese dish of prepared <strong>vinegared rice</strong> (鮨飯, sushi-meshi), usually with some sugar and salt, accompanying a variety of ingredients, such as <strong>seafood, often raw, and vegetables</strong>. Read this blog to learn more about Sushi."
 ---
 
 Sushi is a Japanese food.

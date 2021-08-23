@@ -3,6 +3,7 @@ title: "Canada."
 date: "2020-02-06T23:46:37.121Z"
 category: "Country."
 thumbnail: "https://images.pexels.com/photos/2916826/pexels-photo-2916826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+description: "<strong>Canada</strong> is the second country that I have ever lived on other than India making it my <strong>second home.</strong> I came to <string>Canada</strong> during the Christmas 2019. It gave unimaginable feelings and emotions that I have never felt before. This blog describes my <strong>first impression</strong> as I landed in Canada and much more..."
 ---
 
 Wow! I love blogging so much already.

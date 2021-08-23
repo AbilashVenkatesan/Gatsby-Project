@@ -3,7 +3,7 @@ title: "Tiruchirappalli - Rock Fort City."
 date: "2019-04-20T22:40:32.169Z"
 category: "City."
 thumbnail: "https://i0.wp.com/dhinasari.com/wp-content/uploads/2019/08/i-love-trichy-selfiecorner.jpeg"
-description: <strong>Tiruchirappalli</strong> also known as <strong>Trichy</strong> is my birthplace. I love this city to death which is why I wanted to proudly present this as my first official blog to the people of the world.
+description: <strong>Tiruchirappalli</strong> is also shortly called as <strong>Trichy,</strong> which is my birthplace. I <strong>love this city</strong> to death which is why I wanted to proudly present this as my first official blog to the people of the world. Read this blog more to learn why <strong>Trichy</strong> is nicknamed as <strong>The Rock Fort City</strong>
 ---
 
 Welcome to my birthplace **Tiruchirappalli** also shortly known as **Trichy** is an historical placce located in the state of Tamil Nadu in southern India.
