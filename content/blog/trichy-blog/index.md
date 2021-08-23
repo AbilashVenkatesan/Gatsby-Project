@@ -1,7 +1,8 @@
 ---
-title: "Rock Fort City - Tiruchirappalli."
-date: "2021-08-20T22:40:32.169Z"
-category: "City"
+title: "Tiruchirappalli - Rock Fort City."
+date: "2019-04-20T22:40:32.169Z."
+category: "City."
+thumbnail: "https://i0.wp.com/dhinasari.com/wp-content/uploads/2019/08/i-love-trichy-selfiecorner.jpeg"
 description: <strong>Tiruchirappalli</strong> also known as <strong>Trichy</strong> is my birthplace. I love this city to death which is why I wanted to proudly present this as my first official blog to the people of the world.
 ---
 

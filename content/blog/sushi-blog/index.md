@@ -1,11 +1,12 @@
 ---
-title: Sushi.
-date: "2015-05-01T22:12:03.284Z"
-title2: "Food"
-description: "Hello World"
+title: "Sushi."
+date: "2021-01-06T22:12:03.284Z."
+category: "Food."
+thumbnail: "https://135525-391882-2-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/01/sushi-1024x683.jpg"
+description: "Sushi is a Japanese cuisine."
 ---
 
-This is my first post on my new fake blog! How exciting!
+Sushi is a Japanese food.
 
 I'm sure I'll write a lot more interesting things in the future.
 
