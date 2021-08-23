@@ -1,13 +1,10 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Rock Fort City - Tiruchirappalli.
+date: "2021-08-20T22:40:32.169Z"
+description: <strong>Tiruchirappalli</strong> also known as <strong>Trichy</strong> is my birthplace. I love this city to death which is why I wanted to proudly present this as my first official blog to the people of the world.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Welcome to my birthplace **Tiruchirappalli** also shortly known as **Trichy** is an historical placce located in the state of Tamil Nadu in southern India.
 
 ## On deer horse aboard tritely yikes and much
 
