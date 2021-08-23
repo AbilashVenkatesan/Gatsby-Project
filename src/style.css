@@ -244,11 +244,12 @@ a:focus {
 .global-wrapper {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
-  padding: var(--spacing-10) var(--spacing-5);
+  padding: var(--spacing-10) var(--spacing-5) var(--spacing-0);
+  min-height: 100vh;
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
-  margin-bottom: var(--spacing-20);
+  margin-bottom: var(--spacing-10);
 }
 
 .global-header {
@@ -265,6 +266,21 @@ a:focus {
 .post-list-item {
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
+  grid-template-columns: auto 25em;
+  grid-template-areas: name desc;
+}
+
+.post-list-item:nth-child(even){
+  grid-template-columns: 25em auto;
+  grid-template-areas: desc name;
+}
+
+.blogName{
+  grid-area: name;
+}
+
+.blogDesc{
+  grid-area: desc;
 }
 
 .post-list-item p {
@@ -305,6 +321,10 @@ a:focus {
   border-radius: 100%;
 }
 
+.blogDate{
+  background-color: var(--color-accent);
+}
+
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
@@ -320,6 +340,16 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.siteFooter{
+  background-color: var(--color-text-light);
+  padding-left: 2em;
+  padding-bottom: 3em;
+  margin-top: 5em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 /* Media queries */
