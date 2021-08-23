@@ -30,10 +30,8 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
       </article>
+
       <nav className="blog-post-nav">
         <ul
           style={{
@@ -67,6 +65,10 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
+
+      <footer>
+        <Bio />
+      </footer>
     </Layout>
   )
 }
@@ -92,6 +94,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        category
+        thumbnail
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
