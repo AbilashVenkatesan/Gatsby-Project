@@ -54,7 +54,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
           <li>
               <Link to='/' rel="prev">
-                back
+                Back to Home Page
               </Link>
           </li>
 
