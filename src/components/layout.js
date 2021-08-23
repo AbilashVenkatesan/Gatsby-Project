@@ -9,12 +9,12 @@ const Layout = ({ location, title, children }) => {
   if (isRootPath) {
     header = (
       <h1 className="main-heading">
-        <Link to="/">{title}</Link>
+        {title}
       </h1>
     )
   } else {
     header = (
-      <Link className="header-link-home" to="/">
+      <Link className="header-link-home" style={{color: '#F29F05', fontSize: '25px'}} to="/">
         {title}
       </Link>
     )
@@ -24,10 +24,12 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
+      <footer className='siteFooter'>
+        <div className='container'>
+        Copyright © {new Date().getFullYear()}, Built by
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://www.abilashvenkatesan.com">Abilash Venkatesan</a>
+        </div>
       </footer>
     </div>
   )
