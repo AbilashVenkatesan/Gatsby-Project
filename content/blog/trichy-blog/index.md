@@ -41,4 +41,4 @@ The 12th century Tamil epic Kambaramayanam was first recited at the Ranganathasw
 > The Trichy Travel Federation (TTF) was formed on 5 May 2009 to promote Tiruchirappalli as a favourable tourist destination.
 > The federation organises an annual food festival called Suvai. Lack of infrastructure has been a major deterrent to the city's tourism industry.
 
-*credits @ [Wikipedia](https://en.wikipedia.org/wiki/Tiruchirappalli)*
+*Content credit @ [Wikipedia](https://en.wikipedia.org/wiki/Tiruchirappalli)*
