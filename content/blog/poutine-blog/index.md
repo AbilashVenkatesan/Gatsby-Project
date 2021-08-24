@@ -8,6 +8,8 @@ description: "<strong>Poutine</strong> is a <strong>Canadian dish</strong> made 
 
 **Poutine** is a dish of **french fries** and **cheese curds** topped with a **brown gravy**. It emerged in Quebec, Canada, in the late 1950s in the [**Centre-du-Québec region,**](https://en.wikipedia.org/wiki/Centre-du-Qu%C3%A9bec) though its origins are uncertain and there are several competing claims of having invented the dish. For many years it was perceived negatively and mocked, and even used by some to stigmatize Quebec society. Poutine later became celebrated as a **symbol of Québécois culture** and the province of Quebec. It has long been associated with Quebec cuisine, and its rise in prominence has led to popularity throughout the rest of Canada, in the northern United States, and internationally.
 
+![Poutine](https://dynamicmedia.zuza.com/zz/m/original_/5/0/50354b53-bd06-4074-b965-619b1504f6f2/Smokes-Poutine-04_Traditional_720_480_Super_Portrait.jpg_Super_Portrait.jpeg)
+
 ## History
 ### Origin
 
