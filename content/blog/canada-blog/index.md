@@ -16,7 +16,7 @@ Canada is a country in North America. Its ten provinces and three territories ex
 
 Indigenous peoples have continuously inhabited what is now Canada for thousands of years. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom. This widening autonomy was highlighted by the Statute of Westminster 1931 and culminated in the Canada Act 1982, which severed the vestiges of legal dependence on the British Parliament.
 
-> *Content credit @ [Wikipedia](https://en.wikipedia.org/wiki/Tiruchirappalli)*
+> *Content credit @ [Wikipedia](https://en.wikipedia.org/wiki/Canada)*
 
 > **Here is a video of the Canadian national anthem by *"CANADA IMMIGRANT"* on youtube:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kRPGPAnPNa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
